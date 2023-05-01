@@ -6,3 +6,5 @@ Demonstration of an ETL pipeline using Python, Pandas, and either Python diction
 # Results
 
 A demonstration of the database creation using crowdfunding campaign and contact information. SQL instructrions for table creation are included.
+
+![Database](https://github.com/ShoaibFarooqui/Crowdfunding-ETL/blob/main/Starter_Files/CrowdFunding_db.png)
